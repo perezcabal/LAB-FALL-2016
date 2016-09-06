@@ -23,9 +23,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Sep 16, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:
- * **Topic(s)**:
- * **Materials**:
+ * **Presenter(s)**: [Prof. Dr. Chris-Carolin Schön](http://www.professoren.tum.de/en/schoen-chris-carolin/)
+ * **Topic(s)**: TBD, discussion with invited speaker
 
 ---
 
