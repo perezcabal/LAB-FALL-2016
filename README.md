@@ -24,7 +24,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: [Prof. Dr. Chris-Carolin Schön](http://www.professoren.tum.de/en/schoen-chris-carolin/)
  * **Topic(s)**: TBD, discussion with invited speaker
- * **Note**: Chris Schön will give her simnar *Genomic Prediction with Model Training Across Multiple Breeding Cycles Significantly Improves Prediction Accuracy* on Friday Sept 16, 9:00-10:00am in Room 168 Plant Biology Building [flyer](https://www.dropbox.com/s/v71qe6zv2ieupt2/ChrisSch%C3%B6nSeminar.pdf?dl=0).
+ * **Note**: Chris Schön will give her seminar *Genomic Prediction with Model Training Across Multiple Breeding Cycles Significantly Improves Prediction Accuracy* on Friday Sept 16, 9:00-10:00am in Room 168 Plant Biology Building. [Flyer](https://www.dropbox.com/s/v71qe6zv2ieupt2/ChrisSch%C3%B6nSeminar.pdf?dl=0).
  
 ---
 
