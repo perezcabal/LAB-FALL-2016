@@ -40,7 +40,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Sep 30, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:
+ * **Presenter(s)**: Agustin Gonzalez Reymundez
  * **Topic(s)**:
  * **Materials**:
 
@@ -49,7 +49,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Oct 7, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:
+ * **Presenter(s)**: Hwasoon Kim
  * **Topic(s)**:
  * **Materials**:
 
