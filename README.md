@@ -24,6 +24,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Marigel Perez-Cabal
  * **Topic(s)**: Use of spectra data for prediction of reproductive outcomes.
+ * **Materials**: [Bastin et al., 2016](http://ac.els-cdn.com/S0022030215009492/1-s2.0-S0022030215009492-main.pdf?_tid=f3bc7c68-75df-11e6-8e48-00000aab0f6b&acdnat=1473351720_88db4273f2180f161c1a358d9edac92c)
  * **Note**: Chris Schön will give her seminar *Genomic Prediction with Model Training Across Multiple Breeding Cycles Significantly Improves Prediction Accuracy* on Friday Sept 16, 9:00-10:00am in Room 168 Plant Biology Building. [Flyer](https://www.dropbox.com/s/v71qe6zv2ieupt2/ChrisSch%C3%B6nSeminar.pdf?dl=0). All of us are encouraged to attend her seminar.
  
 ---
