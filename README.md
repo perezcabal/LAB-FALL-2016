@@ -86,8 +86,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Marco Lopez-Cruz
- * **Topic(s)**:
- * **Materials**:
+ * **Topic(s)**: Incorporating LD information in Genomic Prediction with Sequence Data
+ * **Materials**: Paper: ([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
 
 ---
 
