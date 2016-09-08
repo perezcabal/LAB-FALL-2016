@@ -1,4 +1,4 @@
-# Lab Meetings QuantGen Group Spring 2016
+# Lab Meetings QuantGen Group Fall 2016
 
 [Group's Website](http://quantgen.github.io/)
 
@@ -41,8 +41,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Agustin Gonzalez Reymundez
- * **Topic(s)**:Epigenetics Marks and Aging
- * **Materials**:Lin & Wagner (2015). Epigenetic Aging Signatures Are Coherently Modified in Cancer.http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004996 
+ * **Topic(s)**: Epigenetics Marks and Aging
+ * **Materials**: [Lin & Wagner (2015). Epigenetic Aging Signatures Are Coherently Modified in Cancer](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004996)
 
 ---
 
@@ -58,7 +58,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Oct 14, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:Raka Mandal
+ * **Presenter(s)**: Raka Mandal
  * **Topic(s)**:
  * **Materials**:
 
@@ -67,7 +67,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Oct 21, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:Shyamali Mukerjee
+ * **Presenter(s)**: Shyamali Mukerjee
  * **Topic(s)**:
  * **Materials**:
 
@@ -87,7 +87,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**: Incorporating LD information in Genomic Prediction with Sequence Data
- * **Materials**: Paper: ([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
+ * **Materials**: Paper: [Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411)
 
 ---
 
@@ -103,7 +103,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Nov 18, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**:Siddharth Avadhanam
+ * **Presenter(s)**: Siddharth Avadhanam
  * **Topic(s)**:
  * **Materials**:
 
@@ -130,8 +130,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ## Perspectives/Reviews
 
-
- * Protein Variation in Natural Populations and Quantitative Genetic Variation ([Hubby et al., Genetics, 2016]( http://www.genetics.org/content/203/4/1497))
+ * Protein Variation in Natural Populations and Quantitative Genetic Variation ([Hubby et al., Genetics, 2016](http://www.genetics.org/content/203/4/1497))
  * The History of the Y-Chromosome in man ([Hughes & Page, Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3580.pdf))
  * What do you mean "Epigenetic"? ([Deans & Maggert, Genetics, 2015](http://www.genetics.org/content/199/4/887))
 
@@ -146,8 +145,8 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ## Research and Case Study Articles
 
-  * Genetic Variation of Gene Editing ([ Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
-  * Cis- and Trans-Gene Inactivation Caused by Heterochromatin in Drosophila ([ Yuriy et al., Genetics, 2016](http://www.genetics.org/content/202/1/93))
+  * Genetic Variation of Gene Editing ([Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
+  * Cis- and Trans-Gene Inactivation Caused by Heterochromatin in Drosophila ([Yuriy et al., Genetics, 2016](http://www.genetics.org/content/202/1/93))
   * Contribution of genetic and common shared environoment to common disease using the UK-Biobank ([Muñoz et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3618.html))
   * Integration of eQTL and GWAS results for prediction of complex trait gene targets ([Zhu et al., Nat Genet., 2016](http://www.nature.com/ng/journal/v48/n5/pdf/ng.3538.pdf))
   * The genomic landscape and evolution of endometrial carcinoma progression and abdominopelvic metastasis ([Gibson et al., Nat Gen., 2016](http://www.nature.com/ng/journal/v48/n8/full/ng.3602.html))
@@ -155,8 +154,8 @@ This semester we will be covering  papers from outside the group, a few presenta
   * Variants with large effects on blood lipids and the role of  cholesterol and triglycerides in coronary disease ([Helgadottir et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3561.pdf))
   * Genetic profiling of anthropometric traits using big data ([Canela-Xandri et al.](http://biorxiv.org/content/early/2015/12/01/033134.abstract))
   * Limitations of GCTA as a solution to the missing heritability problem ([Kumar et al, PNAS, 2015 ](http://www.pnas.org/content/113/1/E61.full.pdf))
-  * [The contribution of rare variation to prostate cancer heritability ([Mancuso et al., NG, 2015](http://www.nature.com/ng/journal/v48/n1/full/ng.3446.html))
-  * Bolt-REML" ([Loh et al., NG, 2015](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html))
+  * The contribution of rare variation to prostate cancer heritability ([Mancuso et al., NG, 2015](http://www.nature.com/ng/journal/v48/n1/full/ng.3446.html))
+  * Bolt-REML ([Loh et al., NG, 2015](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html))
   * Testing for Nodal Dependence in Relational Data Matrices ([Volfovsky et al., JASA, 2015](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.965777))
   * The E-MS Algorithm: Model Selection With Incomplete Data ([Jiang et al., JASA, 2015](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.948545))
   * Estimation and Accuracy after Model Selection ([Efron, JASA, 2014](http://www.tandfonline.com/doi/full/10.1080/01621459.2013.823775#abstract))
